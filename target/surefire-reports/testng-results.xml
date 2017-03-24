@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.ttn.ExtentReport.AppTest" duration-ms="2" started-at="2016-03-17T12:16:27Z" finished-at="2016-03-17T12:16:27Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="2" started-at="2016-03-17T12:16:27Z" finished-at="2016-03-17T12:16:27Z">
+    </test>
+  </suite>
+</testng-results>

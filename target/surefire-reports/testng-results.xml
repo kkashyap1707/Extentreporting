@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="0" passed="0">
+<testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="com.ttn.ExtentReport.AppTest" duration-ms="2" started-at="2016-03-17T12:16:27Z" finished-at="2016-03-17T12:16:27Z">
+  <suite name="Command line suite" duration-ms="11" started-at="2017-03-26T16:38:25Z" finished-at="2017-03-26T16:38:25Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="2" started-at="2016-03-17T12:16:27Z" finished-at="2016-03-17T12:16:27Z">
+    <test name="Command line test" duration-ms="11" started-at="2017-03-26T16:38:25Z" finished-at="2017-03-26T16:38:25Z">
+      <class name="com.ttn.Test.SampleTest">
+        <test-method status="PASS" signature="BeforeSuite()" name="BeforeSuite" is-config="true" duration-ms="254" started-at="2017-03-26T16:38:25Z" finished-at="2017-03-26T16:38:25Z">
+        </test-method>
+        <test-method status="PASS" signature="BeforeMethod()" name="BeforeMethod" is-config="true" duration-ms="3" started-at="2017-03-26T16:38:25Z" finished-at="2017-03-26T16:38:25Z">
+        </test-method>
+        <test-method status="PASS" signature="ads()" name="ads" duration-ms="2" started-at="2017-03-26T16:38:25Z" finished-at="2017-03-26T16:38:25Z">
+        </test-method>
+        <test-method status="PASS" signature="AfterMethod()" name="AfterMethod" is-config="true" duration-ms="2" started-at="2017-03-26T16:38:25Z" finished-at="2017-03-26T16:38:25Z">
+        </test-method>
+        <test-method status="PASS" signature="AfterSuite()" name="AfterSuite" is-config="true" duration-ms="297" started-at="2017-03-26T16:38:25Z" finished-at="2017-03-26T16:38:26Z">
+        </test-method>
+      </class>
     </test>
   </suite>
 </testng-results>
